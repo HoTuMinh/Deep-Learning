@@ -1,1 +1,2 @@
 - [3Blue1Brown playlist on Deep Learning](https://www.3blue1brown.com/lessons/gradient-descent)
+- I practice [here](https://course.fast.ai/)
